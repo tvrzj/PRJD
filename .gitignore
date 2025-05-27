@@ -1,4 +1,5 @@
 .env/
 instrukce.md
-large-data
+large-data/*
+figs/*
 .DS_Store
