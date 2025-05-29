@@ -11,6 +11,7 @@ Hlavní částí je definovaná funkce `mov_period_analysis()`. Tato funkce umo�
 - výpočet a zobrazení trendu průměrné délky filmů v čase
 - statistický test trendu pomocí Mann-Kendallova testu
 - výpis průměrné délky filmů v daném období a informace o zjištěném trendu
+- data a graf jsou následně uložené do složky outputs ve formátu `.csv` a `.png`
 
 ## Zadání:
 Nejpozději 2 týdny před konáním zkoušky student odevzdá podklady ve formě odkazu na vlastní veřejný gitový repozitář (GitHub nebo GitLab). Repozitář musí obsahovat funkční kód k ucelenému projektu, zaměřenému na aplikaci programování v oblasti studijního programu.

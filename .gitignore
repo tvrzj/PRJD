@@ -1,8 +1,9 @@
 #ignore
+.DS_Store
 .env/
-instrukce.md
 large-data/*
 figs/*
-.DS_Store
+outputs/*
 #except
 !.gitkeep
+!outputs/figs
