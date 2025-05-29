@@ -4,7 +4,7 @@ Tato repozitoř obsahuje kód k anaýze dat filmové databáze [IMDB](www.imdb.c
 
 Soubor obsahující kód je pojmenovaný `code.ipynb`. V něm je použito knihoven Pandas, matplotlib, requests a pymannkendall.
 
-Hlavní částí je definovaná funkce `mov_period_analysis()`. Tato funkce umožňuje analyzovat vývoj délky filmů v čase na základě zvoleného časového období. Je mo6n0 volitelně zadat počáteční a koncový rok analýzy. Funkce provede:
+Hlavní částí je definovaná funkce `mov_period_analysis()`. Tato funkce umožňuje analyzovat vývoj délky filmů v čase na základě zvoleného časového období. Je možné volitelně zadat počáteční a koncový rok analýzy. Funkce provede:
 
 - filtrování dat podle zadaného období,
 - vizualizaci délky filmů pomocí boxplotu pro jednotlivé roky
